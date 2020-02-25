@@ -1,0 +1,6 @@
+Tue Feb 18 12:58:57 2020
+ERROR: Could not open activation key file /Users/davidyan/.mujoco/mjkey.txt
+
+Tue Feb 25 20:48:31 2020
+ERROR: Invalid activation key
+
